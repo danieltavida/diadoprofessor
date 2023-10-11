@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "A cada educador, nosso respeito e gratidão. " + 
         "Que este dia seja repleto de reconhecimento, carinho e admiração por aqueles que iluminam nossas vidas com sabedoria e amor. " +
         
-        "Feliz Dia dos Professores! " ;
+        "Feliz Dia dos Professores! ";
         
     });
 });
